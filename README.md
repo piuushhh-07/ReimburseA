@@ -24,11 +24,11 @@ It introduces a **configurable rule-based approval engine** supporting sequentia
 
 ### 🏠 Dashboard
 
-![Dashboard](static/screenshots/signup.png)
+![Dashboard](static/screenshots/dashboard.png)
 
-### 💸 Submit Expense
+### 💸 signup page
 
-![Expense](static/screenshots/expense.png)
+![Expense](static/screenshots/signup.png)
 
 ### 🔄 Approval Workflow
 
