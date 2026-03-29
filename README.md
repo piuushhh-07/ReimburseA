@@ -1,6 +1,6 @@
 # ReimburseAI 🚀
 
-### Smart Expense Reimbursement with Dynamic Approval Workflows
+### Smart rule-based expense reimbursement system with dynamic approval workflows, OCR automation, and multi-currency support
 
 > From receipts to approvals — automated intelligently.
 
